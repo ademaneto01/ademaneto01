@@ -1,5 +1,9 @@
 ### Olá, Eu sou o Ademar Neto
 
+Sou graduado em Engenharia Mecânica e desenvolvedor de software web Full-Stack.
+
+Tive meu primeiro contato com linguagem de programação em algumas matérias na faculdade, que foram as que mais me identifiquei! Hoje em dia estou me especializando em linguagem Web Java Full-Stack.
+
 ![Ademaneto01 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ademaneto01&show_icons=true&theme=dracula)
 
 <div style='display: inline_block'><br>

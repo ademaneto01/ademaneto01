@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Ademar Neto
 
 ![Ademaneto01 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ademaneto01&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademaneto01&theme=gotham)](https://github.com/ademaneto01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademaneto01&theme=gotham&langs_count=8)](https://github.com/ademaneto01/github-readme-stats)
 
 <div style='display: inline_block'><br>
   <img align='center' alt='Ademar-Js' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
